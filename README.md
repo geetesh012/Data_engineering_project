@@ -32,3 +32,5 @@ Reporting (Power BI)
 Connect Power BI to Synapse Analytics or Data Lake Gen2.
 Build dashboards and visualizations for insights.
 Set up scheduled refreshes for real-time updates.
+
+---------------- @geetesh012 -----------------------
